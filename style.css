@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    margin-top: 10px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 20px;
+    box-shadow:  5px 10px 5px grey ;
+}
+
+#btn{
+    border: none;
+    color: #ffff;
+    background: green;
+    padding: 15px 30px;
+}
